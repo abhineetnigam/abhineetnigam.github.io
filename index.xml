@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khyati</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Khyati</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 19:18:17 +0530</lastBuildDate>
+    <image>
+      <url>/images/icon_hu09c2e1648cf7d6c922a8d4ebe14e3e3b_23252_512x512_fill_lanczos_center_2.png</url>
+      <title>Khyati</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Combinatorial Optimization using Analog Computing</title>
+      <link>/projects/cim/</link>
+      <pubDate>Wed, 14 Apr 2021 19:18:17 +0530</pubDate>
+      <guid>/projects/cim/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Studying the noise robustness of analog optimization methods for NP-Hard problems.&lt;/li&gt;
+&lt;li&gt;More details to be updated soon!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neurosymbolic Multi-hop Reasoning</title>
+      <link>/projects/multi-hop/</link>
+      <pubDate>Thu, 28 Jan 2021 19:18:21 +0530</pubDate>
+      <guid>/projects/multi-hop/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Building a logical Natural Language Inference dataset with verifiable proof steps using neuro-symbolic approach.&lt;/li&gt;
+&lt;li&gt;We believe this would help build more reliable and interpretable systems, critical in real-world settings.&lt;/li&gt;
+&lt;li&gt;Dataset to be released soon.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Combinatorial Optimisation on DWAVE systems</title>
+      <link>/projects/dwave/</link>
+      <pubDate>Mon, 28 Dec 2020 19:18:25 +0530</pubDate>
+      <guid>/projects/dwave/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Verified the use of DWAVE to achieve a speedup in Machine Learning and combinatorial optimization problems.&lt;/li&gt;
+&lt;li&gt;Worked on optimization of various problems - Feature Selection, Quantum Boosting, Restricted Boltzmann Machine, Map Coloring, Satisfiability problem and others using quantum annealing on NASA&amp;rsquo;s DWAVE computer.&lt;/li&gt;
+&lt;li&gt;Please refer the pdf for some of my notes.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantum Techniques for Stochastic Mechanics</title>
+      <link>/projects/stochastic-mechanics/</link>
+      <pubDate>Sat, 28 Nov 2020 19:18:31 +0530</pubDate>
+      <guid>/projects/stochastic-mechanics/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Investigated overlap and parallels between quantum mechanics and stochastic mechanics.&lt;/li&gt;
+&lt;li&gt;Study based on &lt;a href=&#34;https://arxiv.org/abs/1209.3632&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;work by John C. Baez, Jacob Biamonte&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Please refer the pdf for the notes!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radio Telescope</title>
+      <link>/projects/rt/</link>
+      <pubDate>Sat, 28 Nov 2020 19:18:31 +0530</pubDate>
+      <guid>/projects/rt/</guid>
+      <description>&lt;p&gt;To be updated soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Secure Quantum Computation</title>
+      <link>/projects/secure-computation/</link>
+      <pubDate>Sat, 28 Nov 2020 19:18:31 +0530</pubDate>
+      <guid>/projects/secure-computation/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;A study based project inspecting quantum protocols which provide fully private assisted quantum computation.&lt;/li&gt;
+&lt;li&gt;Please refer the pdf for the notes!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synthesis of Quantum Dots</title>
+      <link>/projects/qdots/</link>
+      <pubDate>Sat, 28 Nov 2020 19:18:21 +0530</pubDate>
+      <guid>/projects/qdots/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Synthesized fluorescent quantum Dots&lt;/li&gt;
+&lt;li&gt;Please refer the pdf for the experimentation details.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cim</title>
+      <link>/post/cim/</link>
+      <pubDate>Sat, 28 Nov 2020 19:15:29 +0530</pubDate>
+      <guid>/post/cim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qwalk</title>
+      <link>/post/qwalk/</link>
+      <pubDate>Sat, 28 Nov 2020 19:15:17 +0530</pubDate>
+      <guid>/post/qwalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paine</title>
+      <link>/post/paine/</link>
+      <pubDate>Sat, 28 Nov 2020 19:14:56 +0530</pubDate>
+      <guid>/post/paine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dwave</title>
+      <link>/post/dwave/</link>
+      <pubDate>Sat, 28 Nov 2020 19:14:42 +0530</pubDate>
+      <guid>/post/dwave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi Hop</title>
+      <link>/post/multi-hop/</link>
+      <pubDate>Sat, 28 Nov 2020 19:14:30 +0530</pubDate>
+      <guid>/post/multi-hop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Circuit Design</title>
+      <link>/projects/qwalk/</link>
+      <pubDate>Fri, 27 Nov 2020 19:18:31 +0530</pubDate>
+      <guid>/projects/qwalk/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Designed efficient quantum circuits for discrete time topological quantum walks for near term quantum computers.&lt;/li&gt;
+&lt;li&gt;Details to be updated soon!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Reading List</title>
+      <link>/post/reading-list/</link>
+      <pubDate>Fri, 27 Nov 2020 18:21:12 +0530</pubDate>
+      <guid>/post/reading-list/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;The dreams from my father by Barack Obama&lt;/li&gt;
+&lt;li&gt;Da Vinci Code&lt;/li&gt;
+&lt;li&gt;Rozabel Line&lt;/li&gt;
+&lt;li&gt;Becoming&lt;/li&gt;
+&lt;li&gt;Influence&lt;/li&gt;
+&lt;li&gt;No Exit&lt;/li&gt;
+&lt;li&gt;Economics of Doughnut&lt;/li&gt;
+&lt;li&gt;Harry Potter&lt;/li&gt;
+&lt;li&gt;Gifts of Imperfection&lt;/li&gt;
+&lt;li&gt;7 habits of Highly Effective People&lt;/li&gt;
+&lt;li&gt;Outliers Malcolm Gladwell&lt;/li&gt;
+&lt;li&gt;Let me stay&lt;/li&gt;
+&lt;li&gt;Life is Perfect&lt;/li&gt;
+&lt;li&gt;2 guys , 3 girls and a mad professor&lt;/li&gt;
+&lt;li&gt;Difficult Daughters&lt;/li&gt;
+&lt;li&gt;Digital Fortress, Dan brown&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/blog/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/blog/</guid>
+      <description>&lt;p&gt;Hi!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>More</title>
+      <link>/more/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/more/</guid>
+      <description>&lt;p&gt;Hi!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
