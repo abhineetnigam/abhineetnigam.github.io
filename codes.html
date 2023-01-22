@@ -1,34 +1,72 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>My Webpage</title>
-    <style>
-      body {
-        background-color: lightblue;
-        color: white;
-        font-family: Arial, sans-serif;
-      }
-      h1 {
-        font-size: 2em;
-      }
-      ul {
-        list-style-type: none;
-      }
-      a {
-        color: white;
-        text-decoration: none;
-      }
-      a:hover {
-        color: black;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>Welcome to My Webpage</h1>
-    <p>Here are some links to my favorite websites:</p>
+<head>
+  <title>My Projects</title>
+  <style>
+    body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+nav {
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #0077c9;
+}
+
+pre {
+  background-color: #f9f9f9;
+  padding: 10px;
+  overflow: auto;
+}
+
+  </style>
+</head>
+<body>
+  <h1>My Projects</h1>
+  <nav>
     <ul>
-      <li><a href="https://www.google.com">Google</a></li>
-      <li><a href="https://www.youtube.com">YouTube</a></li>
-      <li><a href="https://www.reddit.com">Reddit</a></li>
+      <li><a href="#project-1">Project 1</a></li>
+      <li><a href="#project-2">Project 2</a></li>
+      <li><a href="#project-3">Project 3</a></li>
     </ul>
-  </body>
+  </nav>
+  <h2 id="project-1">Project 1</h2>
+  <pre><code>
+    /* Add code for Project 1 here */
+  </code></pre>
+  <h2 id="project-2">Project 2</h2>
+  <pre><code>
+    /* Add code for Project 2 here */
+  </code></pre>
+  <h2 id="project-3">Project 3</h2>
+  <pre><code>
+    /* Add code for Project 3 here */
+  </code></pre>
+</body>
 </html>
